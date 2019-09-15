@@ -1,4 +1,7 @@
 # Project 2: Shape Sorter
+
+Due: September 23
+
 For this project, you will design and implement:
 - a hierarchy of classes representing several 2D and 3D shapes, 
 - classes that implement Comparator interface and compare shapes based on name, area, perimeter or volume, 
